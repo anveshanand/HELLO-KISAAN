@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "151615828675",
+    "firebase_url": "https://helpkisan-93fe2.firebaseio.com",
+    "project_id": "helpkisan-93fe2",
+    "storage_bucket": "helpkisan-93fe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151615828675:android:3463148273574fe2",
+        "android_client_info": {
+          "package_name": "com.info.inet.helpkisan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151615828675-fbl5h86a3d7pricn79mh89ocgsb3osp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.inet.helpkisan",
+            "certificate_hash": "1c29063ac7cdfdd6aed42542ee975ed89292b619"
+          }
+        },
+        {
+          "client_id": "151615828675-klfv2iqepcpprj4bhi3utt22tjd7osdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.info.inet.helpkisan",
+            "certificate_hash": "3c73c47539fc0d3092ebbb3fc2cfd344e0513da1"
+          }
+        },
+        {
+          "client_id": "151615828675-npvb2pf08vreo6e3fu4n927uvhm3phnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_TJ-Zvr8abDYaBcBSHTBnWYCrkqJ2JbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151615828675-npvb2pf08vreo6e3fu4n927uvhm3phnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
